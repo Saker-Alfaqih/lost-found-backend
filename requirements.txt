@@ -1,0 +1,16 @@
+# Django Core
+Django==5.2.10
+djangorestframework==3.16.1
+
+# JWT Authentication
+djangorestframework-simplejwt==5.5.1
+PyJWT==2.10.1
+
+# Database
+psycopg2-binary==2.9.11
+
+# CORS Support
+django-cors-headers==4.9.0
+
+# Additional utilities
+python-decouple==3.8
